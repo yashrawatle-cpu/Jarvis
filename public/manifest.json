@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "name": "J.A.R.V.I.S. Neural Core & Laptop Operator",
+  "short_name": "JARVIS OS",
+  "description": "Stark Industries holographic AI assistant featuring 3D procedural Arc Reactor core, real-time voice conversation, and computer vision hand gesture laptop controls.",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#00f0ff",
+  "background_color": "#000000",
+  "categories": ["utilities", "productivity", "entertainment"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

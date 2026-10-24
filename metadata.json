@@ -1,0 +1,11 @@
+{
+  "name": "J.A.R.V.I.S. Neural Core & Laptop Operator",
+  "description": "Stark Industries holographic AI assistant featuring 3D procedural Arc Reactor core, real-time voice conversation, computer vision hand gesture laptop controls, and Gemini-powered deep knowledge engine.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
